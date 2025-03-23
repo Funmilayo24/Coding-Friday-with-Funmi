@@ -1,4 +1,5 @@
-Coding Friday with Funmi
+# Coding Friday with Funmi
+
 Welcome to the Coding Friday with Funmi repository! 🎉
 
 This repository contains the weekly coding challenges and solutions I cover on my YouTube series, Coding Friday with Funmi. Every Friday, I dive into various programming topics and solve interesting problems based on requests from the comments. Whether it's popular LeetCode problems, Python projects, or tricky coding concepts, we've got it covered!
